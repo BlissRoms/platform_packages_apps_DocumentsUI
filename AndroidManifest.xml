@@ -33,6 +33,7 @@
         android:name=".DocumentsApplication"
         android:label="@string/app_label"
         android:icon="@mipmap/ic_launcher_files"
+        android:roundIcon="@mipmap/ic_launcher_files_round"
         android:supportsRtl="true"
         android:allowBackup="true"
         android:backupAgent=".prefs.BackupAgent"
